@@ -15,3 +15,4 @@ pip install git+https://github.com/jacobgil/pytorch-grad-cam.git
 2. Run:
 streamlit run app.py
 
+watch a demo:https://cliniscan-lung-abnormality-detection-on-chest-x-rays-gp9fjubya.streamlit.app/
